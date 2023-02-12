@@ -1,7 +1,7 @@
 /**
  * @file main.cpp
  * 
- * @brief Separate class implementation (.cpp) and interface (.hpp) files in your project structure.
+ * @brief How to separate class implementation(.cpp) and interface(.hpp) files in your project structure.
  * 
  * @author
  *  Liam Larry G. Luna <liamlarry.luna@lsu.edu.ph>
