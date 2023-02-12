@@ -4,7 +4,7 @@
  * @brief How to separate class implementation(.cpp) and interface(.hpp) files in your project structure.
  * 
  * @author
- *  Liam Larry G. Luna <liamlarry.luna@lsu.edu.ph>
+ *  Liam Luna <liamlarry.luna@lsu.edu.ph>
  */
 
 #include "Container.hpp"
