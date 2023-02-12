@@ -13,7 +13,7 @@ Container::Container(std::string name) {
   _name = name;
 }
 
-std::string Container::getName() {
+std::string Container::getName() const {
   return _name;
 }
 

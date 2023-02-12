@@ -18,7 +18,7 @@ class Container {
     Container(std::string name);
 
     // Getter and Setter
-    std::string getName();
+    std::string getName() const;
     void setName(std::string name);
 
   private:
