@@ -47,9 +47,4 @@ int main() {
     std::cout << num << std::endl;
   }
 
-  // More memory efficient
-  // const reference to avoid accidental modifying and avoid temporary copies
-  // for (const auto &num : arr2) {
-  //   std::cout << num << std::endl;
-  // }
 }
