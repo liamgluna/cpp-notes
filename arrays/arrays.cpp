@@ -16,6 +16,11 @@ int main() {
   // type arrayName[size];
 
   int arr1[4]; // Array of 4 elements
+  // Modifying the contents
+  arr1[0] = 1;
+  arr1[1] = 2;
+  arr1[2] = 3;
+  arr1[3] = 4;
 
   double arr2[6] = {2, 4, 6, 8, 10, 12}; // Same as: double arr2[] = {2, 4, 6, 8, 10, 12};
 
